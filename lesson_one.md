@@ -14,3 +14,5 @@
 ## Resources
 
 * PEP 8 -- Style Guide for Python Code
+* atom.io (if you don't have a preferred text editor, this is my recommendation)
+* Sublime Text (I use this text editor because I like it but it costs money)
