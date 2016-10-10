@@ -3,6 +3,7 @@
 ## Lesson Overview
 
 * Get teh Python 3! (NOT THE PYTHON 2 GET 3) Go to python.org/download
+  * If you are running Windows, _be sure to put a checkmark in the box to add Python to PATH_ (Thanks Lisa!)
 * Open the REPL (Read-Eval-Print-Loop)
 * Print something
 * Make a source file
