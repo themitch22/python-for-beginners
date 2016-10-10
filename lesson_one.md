@@ -11,5 +11,6 @@
 * Basic string manipulation
 * Operations
 
-## Homework
+## Resources
 
+* PEP 8 -- Style Guide for Python Code
